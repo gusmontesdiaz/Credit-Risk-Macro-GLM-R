@@ -21,7 +21,7 @@ The model integrates external economic factors to predict credit performance:
 * **Delinquency Metric (Dependent Variable):** Credit Card Delinquency (Morosidad) for a financial institution.
 * **Macro Predictors (Independent Variables):** Key macroeconomic indicators like TIIE (Interbank Interest Rate), Unemployment, GDP, Inflation, and VaR on the IGAE (Global Economic Activity Index).
 
-## ✨ Value Proposition for the Analyst Role
+## ✨ Value Proposition
 
 * **R Proficiency for Statistical Modeling:** Proven mastery of R for complex statistical inference, demonstrating versatility alongside Python skills.
 * **Credit Risk Expertise:** Direct experience in building foundational PD models essential for regulatory compliance and financial reporting.
